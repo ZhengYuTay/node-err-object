@@ -17,6 +17,7 @@
     "type": "git",
     "url": "git://github.com/kaelzhang/node-err-object.git"
   },
+  "typings": "./types/index.d.ts",
   "keywords": [
     "err-object",
     "custom",
